@@ -1,15 +1,3 @@
-// {
-//   "compilerOptions": {
-//     "target": "es6",
-//     "module": "commonjs",
-//     "strict": true,
-//     "esModuleInterop": true,
-//     "skipLibCheck": true,
-//     "forceConsistentCasingInFileNames": true
-//   },
-//   "include": ["src/**/*","index.ts"],
-//   "exclude": ["node_modules", "**/*.spec.ts"]
-// }
 {
 	"compilerOptions": {
 		"target": "ESNext",
